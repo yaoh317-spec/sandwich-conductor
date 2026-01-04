@@ -5,10 +5,3 @@
 5.This drawing represents my thinking process.
 6.This is how I imagine electrons being squeezed.
 7.This is a diagram of extremely high voltage forcing electrons into a single channel, like squeezing water into a balloon or tube.
-1 那個河流的 是 電阻 的概念 
-2 是 1.0的樣子 
-3是 電子怎麼在被液體包住氣體包住的固體跑
-4是 入口出口 我對超導體 怎麼做到的概念 點對點 沒有阻礙 一直線 
-5是 思路 
-6 是 我覺得電子被擠 的樣子 
-7是超大電壓 被擠到一個管道 像水球一樣的示意圖
